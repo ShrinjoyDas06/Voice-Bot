@@ -47,9 +47,8 @@ function takeCommand(message) {
                 try {
                     // Define app-specific deep links
                     const appDeepLinks = {
-                        twitter: "twitter://",
+                        
                         whatsapp: "whatsapp://",
-                        youtube: "youtube://",
                         gmail: "mailto:",
                         spotify:"spotify://",
                     };
