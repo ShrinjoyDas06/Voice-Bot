@@ -1,6 +1,5 @@
 # Voice‑Bot
-
-![Voice‑Bot Screenshot](path/to/screenshot.png)  
+ 
 *A voice bot which makes your life easier and you lazier.*
 
 ## Table of Contents
