@@ -25,8 +25,7 @@ Voice‑Bot is a web‑based interactive voice assistant built with HTML, CSS an
 - Lightweight & runs in the browser (no heavy backend needed).
 
 ## Demo  
-Live demo: [https://lullupullu.vercel.app](https://lullupullu.vercel.app)  
-*(Replace with actual live link if different)*
+Live demo: [https://lullupullu.vercel.app](https://lullupullu.vercel.app) 
 
 ## Tech Stack  
 - HTML5  
